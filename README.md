@@ -28,3 +28,8 @@ Python 3.7+
 Wireshark (ensure TShark is installed and in system PATH)
 
 Python packages:
+pip install pyshark
+
+🧪 Disclaimer
+This tool is not meant for any malicious use. Use it only on networks you own or have explicit permission to monitor.
+
