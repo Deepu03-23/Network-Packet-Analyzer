@@ -19,7 +19,6 @@ Ensure you have permission and comply with local laws and ethical guidelines whe
 ✅ Clean threading implementation for responsive UI
 
 📷 Interface Preview
-Add a screenshot here, e.g.:
 <img width="916" height="770" alt="image" src="https://github.com/user-attachments/assets/827f6cbd-fffe-43cc-b7ff-3fc99553bd08" />
 
 🛠️ Requirements
